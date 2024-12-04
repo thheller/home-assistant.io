@@ -57,7 +57,7 @@ Example `ser2net.conf` configuration file:
 
 Example `ser2net.yaml` (`ser2net` version 4.3.3) configuration entry:
 
-```
+```yaml
 connection: &con2001
   enable: on
   accepter: tcp,2001
